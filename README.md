@@ -17,7 +17,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/all-contri
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="http://www.didemertens.com"><img src="https://avatars.githubusercontent.com/u/41751845?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Dide Mertens</b></sub></a><br /><a href="#content-didemertens" title="Content">🖋</a></td>
+    <td align="center"><a href="http://www.didemertens.com"><img src="https://avatars.githubusercontent.com/u/41751845?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Dide Mertens</b></sub></a><br /><a href="#content-didemertens" title="Content">🖋</a> <a href="https://github.com/didemertens/cfg-resource-library/commits?author=didemertens" title="Documentation">📖</a></td>
   </tr>
 </table>
 
