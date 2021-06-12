@@ -12,3 +12,6 @@ Example:
 Title: Updating Udemy React tutorial link
 Description: The React tutorial link is pointing to a deleted Udemy course. I have updated the link to another (free) Udemy tutorial.
 ```
+
+## Recognition
+When we have looked at your PR and are about to merge, we will add you to the library as one of its contributors. Everyone reading the README will then know how amazing you are! Here's how it works with the [All contributors bot](https://allcontributors.org/docs/en/bot/usage).
