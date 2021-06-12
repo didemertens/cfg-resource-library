@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "didemertens",
+      "name": "Dide Mertens",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41751845?v=4",
+      "profile": "http://www.didemertens.com",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "cfg-resource-library",
+  "projectOwner": "didemertens",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
