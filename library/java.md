@@ -65,14 +65,26 @@ After you have the JDK installed on your computer, there's nothing stopping you 
 <ul>
     <li><a href="http://www.eclipse.org/downloads/">Eclipse IDE for Java Developers</a><li>
     <li><a href="http://jetbrains.com/idea">IntelliJ IDEA Community Edition</a><li>
-
+</ul>
 
 ***Continuing on your journey***
 
+<ul>
+<li><a href="https://www.upgrad.com/blog/java-project-ideas-topics-for-beginners/">Java project ideas and topics for beginners</a><li>
+<li><a href="https://medium.com/javarevisited/20-amazing-java-project-ideas-that-will-boost-your-programming-career-75c4276f6f5">Java project ideas go boost your programming career</a><li>
+</ul>
 
-***Recommendations to continue your learning***
+***Other programming ideas and challenges***
 
+<ul>
+<li><a href="https://www.reddit.com/r/dailyprogrammer">/r/dailyprogrammer</a><li>
+<li><a href="https://www.reddit.com/r/programmingprompts">/r/programmingprompts</a><li>
+</ul>
 
-### Prerequisites
+### Pre-requisites
+
+The CFG Introduction to Python Programming course would be a good starting point for the basics - control flow, data structures, functions - that will give the learner a first look at the programming concepts they will work with in Java.
+
+Although being fluent in Javascritp is not a pre-requisite of learning Java, it will definitely make the learning process easier. 
 ---
 
