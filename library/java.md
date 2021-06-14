@@ -75,4 +75,4 @@ After you have the JDK installed on your computer, there's nothing stopping you 
 
 ### Prerequisites
 ---
-C# is a good place to begin for new starters. Would recommend compelting the Code First Girls Python Course but is not required. Any prior expereince in an Object Oriented Programming language, such as Java, would also help. 
+
