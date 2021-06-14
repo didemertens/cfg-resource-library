@@ -1,6 +1,6 @@
 # CFG Resource Library
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 We want to encourage learning after the CFG course and help students continue their coding journey.
@@ -20,6 +20,7 @@ Thanks goes to these amazing people ([emoji key](https://github.com/all-contribu
     <td align="center"><a href="http://www.didemertens.com"><img src="https://avatars.githubusercontent.com/u/41751845?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Dide Mertens</b></sub></a><br /><a href="https://github.com/didemertens/cfg-resource-library/commits?author=didemertens" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/olimoo214"><img src="https://avatars.githubusercontent.com/u/30760360?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Olivia</b></sub></a><br /><a href="https://github.com/didemertens/cfg-resource-library/commits?author=olimoo214" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/biancaiordache"><img src="https://avatars.githubusercontent.com/u/47863666?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Bianca Iordache</b></sub></a><br /><a href="https://github.com/didemertens/cfg-resource-library/commits?author=biancaiordache" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/puczilka"><img src="https://avatars.githubusercontent.com/u/42522725?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Poochilka</b></sub></a><br /><a href="https://github.com/didemertens/cfg-resource-library/commits?author=puczilka" title="Documentation">📖</a></td>
   </tr>
 </table>
 
