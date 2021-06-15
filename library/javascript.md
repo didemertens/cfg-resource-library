@@ -8,9 +8,6 @@ Javascript is a high-level programming language and is often just-in-time compil
 ---
 Alongside HTML and CSS, JavaScript is one of the core technologies of the World Wide Web. Over 97% of websites use it client-side for web page behaviour (user interaction), often incorporating third-party libraries. All major web browsers have a dedicated JavaScript engine to execute the code on the user's device.
 
-## Examples to look at
----
-
 ## Resources
 ---
 ### Official documentation
@@ -42,10 +39,8 @@ Alongside HTML and CSS, JavaScript is one of the core technologies of the World 
 ***Recommendations to continue your learning***
 
 <ul>
-  <li><a href="https://vegibit.com/vue-js-express-tutorial/">Use Javascript frameworks</a></li>
+  <li><a href="https://github.com/didemertens/cfg-resource-library/library/javascript-frameworks.md">Use Javascript frameworks</a></li>
 </ul>
-
-<sup>*</sup> Follow  [here](https://www.freecodecamp.org/news/is-react-a-library-or-a-framework/)
 
 ### Prerequisites
 ---
