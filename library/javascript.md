@@ -6,17 +6,10 @@ Javascript is a high-level programming language and is often just-in-time compil
 
 ## What is JavaScript used for?
 ---
-Alongside HTML and CSS, JavaScript is one of the core technologies of the World Wide Web. Over 97% of websites use it client-side for web page behavior (user interaction), often incorporating third-party libraries. All major web browsers have a dedicated JavaScript engine to execute the code on the user's device.
+Alongside HTML and CSS, JavaScript is one of the core technologies of the World Wide Web. Over 97% of websites use it client-side for web page behaviour (user interaction), often incorporating third-party libraries. All major web browsers have a dedicated JavaScript engine to execute the code on the user's device.
 
 ## Examples to look at
 ---
-React, Vue
-
-When you are an aspiring developer, it can be really hard to choose a framework. There are so many and everyone has their own preference. Just remember that most frameworks work in a similar way. That means that it doesn’t matter if you see an interesting job but they work with a different framework. You can easily pick it up (and employers know that). So all you have to do is stick with one framework at first. Only when you’re very comfortable with it and have built a couple of projects, then you can look into other frameworks.
-
-At the moment, React is the most used JavaScript framework<sup>*</sup>, with Vue becoming more and more popular. Both frameworks are very beginner-friendly and fun to work with, so I suggest you look at the documentation and examples (and maybe jobs you find interesting) to decide which one you’ll focus on.
-
-<sup>*</sup> React is technically a library, you can read more about that [here](https://www.freecodecamp.org/news/is-react-a-library-or-a-framework/)
 
 ## Resources
 ---
