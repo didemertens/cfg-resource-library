@@ -39,7 +39,7 @@ Alongside HTML and CSS, JavaScript is one of the core technologies of the World 
 ***Recommendations to continue your learning***
 
 <ul>
-  <li><a href="https://github.com/didemertens/cfg-resource-library/library/javascript-frameworks.md">Use Javascript frameworks</a></li>
+  <li><a href="javascript-frameworks.md">Use Javascript frameworks</a></li>
 </ul>
 
 ### Prerequisites
