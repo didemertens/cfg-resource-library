@@ -28,7 +28,6 @@ Alongside HTML and CSS, JavaScript is one of the core technologies of the World 
   <li><a href="https://developer.mozilla.org/en-US/docs/Web/Tutorials">MDN Javascript tutorial</a> (free)</li>
   <li><a href="https://www.codecademy.com/learn/introduction-to-javascript">Codecadamy Intro to Javascript</a> (free)</li>
   <li><a href="https://www.pluralsight.com/browse/software-development/javascript?aid=7010a000002BZNLAA4 ">Plural Sight JS Courses</a> (£)</li>
-  <li><a href=""></a></li>
 </ul>
 
 ***Continuing on your journey***
