@@ -1,6 +1,6 @@
 # CFG Resource Library
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 We want to encourage learning after the CFG course and help students continue their coding journey.
@@ -22,6 +22,7 @@ Thanks goes to these amazing people ([emoji key](https://github.com/all-contribu
     <td align="center"><a href="https://github.com/biancaiordache"><img src="https://avatars.githubusercontent.com/u/47863666?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Bianca Iordache</b></sub></a><br /><a href="https://github.com/didemertens/cfg-resource-library/commits?author=biancaiordache" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/puczilka"><img src="https://avatars.githubusercontent.com/u/42522725?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Poochilka</b></sub></a><br /><a href="https://github.com/didemertens/cfg-resource-library/commits?author=puczilka" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/ameeraal1"><img src="https://avatars.githubusercontent.com/u/15269928?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ameera Al-shaibani</b></sub></a><br /><a href="https://github.com/didemertens/cfg-resource-library/commits?author=ameeraal1" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://dev.to/court191"><img src="https://avatars.githubusercontent.com/u/50775886?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Courtney Cox</b></sub></a><br /><a href="https://github.com/didemertens/cfg-resource-library/commits?author=Court191" title="Documentation">📖</a></td>
   </tr>
 </table>
 

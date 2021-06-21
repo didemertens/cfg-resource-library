@@ -49,6 +49,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "Court191",
+      "name": "Courtney Cox",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50775886?v=4",
+      "profile": "https://dev.to/court191",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
