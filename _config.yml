@@ -8,3 +8,4 @@ include:
   - README.md
   - library
 theme: jekyll-theme-tactile
+markdown: kramdown
