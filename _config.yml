@@ -6,4 +6,5 @@ relative_links:
 include:
   - CONTRIBUTING.md
   - README.md
+  - library
 theme: jekyll-theme-tactile
