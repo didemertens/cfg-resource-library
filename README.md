@@ -6,6 +6,7 @@
 We want to encourage learning after the CFG course and help students continue their coding journey.
 
 # Resources:
+<ul></ul>
 * TOC {:toc}
 
 ## Code First Girls
